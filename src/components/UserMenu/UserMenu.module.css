@@ -1,0 +1,10 @@
+/* src/components/UserMenu/UserMenu.module.css */
+.userMenu {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.userName {
+  font-weight: bold;
+}
