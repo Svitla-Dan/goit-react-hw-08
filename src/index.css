@@ -23,7 +23,7 @@ body::after {
   background-position: 0 0;
   opacity: 0.8;
   z-index: -1;
-  /* animation: starsMove 60s linear infinite; */
+  animation: starsMove 60s linear infinite;
 }
 
 @keyframes starsMove {
